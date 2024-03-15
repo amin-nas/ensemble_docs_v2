@@ -110,9 +110,9 @@ Try complete example [here](https://studio.ensembleui.com/app/e24402cb-75e2-404c
 
 **Output**
 
-![Alt text](image-4.png)
+![Alt text](/actions/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](/actions/image-5.png)
 
 **Example with inputs**
 
@@ -175,6 +175,6 @@ MyCustomDialog:
 
 **Output**
 
-![Alt text](image-1.png)
+![Alt text](/actions/image-1.png)
 
-![Alt text](image-3.png)
+![Alt text](/actions/image-3.png)

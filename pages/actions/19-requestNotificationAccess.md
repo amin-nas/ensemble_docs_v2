@@ -46,6 +46,6 @@ When user clicks on button browser pop-up asks for permission and as you allow i
 
 **Output**
 
-![Alt text](image.png)
+![Alt text](/actions/image.png)
 
-![Alt text](image-2.png)
+![Alt text](/actions/image-2.png)

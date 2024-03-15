@@ -21,7 +21,7 @@ View:
 
 Once you make the above change, you can verify it in the browser's developer tool. ( If you cannot find it under local storage in dev tools just refresh page while still keeping the dev tools opened and you will find it under GetStorage )
 
-![Alt text](image-6.png)
+![Alt text](/getting-started/image-6.png)
 
 ### Store item when form is submitted
 
@@ -49,4 +49,4 @@ Note that we added in `id` property to the `TextInput` so we can reference its v
 
 Save and verify the change by adding a new task and pressing the button.
 
-![Alt text](image-7.png)
+![Alt text](/getting-started/image-7.png)

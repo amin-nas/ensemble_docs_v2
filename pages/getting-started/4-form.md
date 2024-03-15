@@ -109,4 +109,4 @@ View:
                   submitForm: true
 ```
 
-![Alt text](image-4.png)
+![Alt text](/getting-started/image-4.png)

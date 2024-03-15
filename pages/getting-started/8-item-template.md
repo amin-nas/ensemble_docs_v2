@@ -74,4 +74,4 @@ View:
 
 Once you save, you should see the item you added previously. Test it by adding a new item too.
 
-![Alt text](image-8.png)
+![Alt text](/getting-started/image-8.png)

@@ -80,5 +80,5 @@ Join Ensemble [Discord server](https://dsc.gg/ensembleui), and post a new topic 
 Make sure to make your app public so that reviewers can access it.
 
 
-![Make app public](../composite-widgets/make-app-public.jpg)
+![Make app public](/make-app-public.jpg)
 

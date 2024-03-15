@@ -8,7 +8,6 @@ Welcome to our Theme page, your gateway to a world of visual customization! Here
 
 You can find the theme on Left-Side of the panel in ensemble studio after you have selected your App.
 
-![Alt text](image-5.png)
 
 For instance in my case for Ensemble Kitchen Sink as you can see the Theme selected in the picture above.
 

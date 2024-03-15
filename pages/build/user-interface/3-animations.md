@@ -25,10 +25,6 @@ Let us take an example of how page transition animations work. We can make it wo
 
 </div>
 
-**Output**
-
-![Alt text](<7-12-2023 (23-21-29).gif>)
-
 **Explanation**
 
 The `type` property under `transition` property for _NavigateScreen_ action allows you to chose kind of animation you want. There are [list](#list-of-animation-types) of options you can chose from.
@@ -50,9 +46,6 @@ Transitions:
 
 </div>
 
-**Output**
-
-![Alt text](image.png)
 
 **Explanation**
 

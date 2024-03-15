@@ -38,10 +38,10 @@ View:
 
 | Name | Kitchen sink example | Output |
 | ---- | -------------------- | ------ |
-| HorizontalProgressBar | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/rlWyrWZrkb6JhxoACptf) | ![HorizontalProgressBar](images/HorizontalProgressBar.png) |
-| ImageThumbnailCarousel | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/gRexsL9GfS9k6rLswMck) | ![ImageThumbnailCarousel](images/ImageThumbnailCarousel.png) |
-| ProfileImageWithIndicator | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/xCU7BvaYzK20NsEuqyNB) | ![ProfileImageWithIndicator](images/ProfileImageWithIndicator.png) |
-| RatingStars | [link](https://studio.ensembleui.com/app/8PghcmhtGkWiWffmhDDl/widget/pn4g23nRuQ5D8AsN1qtp) | ![RatingStars](images/RatingStars.png) |
+| HorizontalProgressBar | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/rlWyrWZrkb6JhxoACptf) | ![HorizontalProgressBar](/composite-widgets/HorizontalProgressBar.png) |
+| ImageThumbnailCarousel | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/gRexsL9GfS9k6rLswMck) | ![ImageThumbnailCarousel](/composite-widgets/ImageThumbnailCarousel.png) |
+| ProfileImageWithIndicator | [link](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/xCU7BvaYzK20NsEuqyNB) | ![ProfileImageWithIndicator](/composite-widgets/ProfileImageWithIndicator.png) |
+| RatingStars | [link](https://studio.ensembleui.com/app/8PghcmhtGkWiWffmhDDl/widget/pn4g23nRuQ5D8AsN1qtp) | ![RatingStars](/composite-widgets/RatingStars.png) |
 
 
 ## Contributing to Composite Widgets
@@ -80,5 +80,5 @@ Join Ensemble [Discord server](https://dsc.gg/ensembleui), and post a new topic 
 Make sure to make your app public so that reviewers can access it.
 
 
-![Make app public](../images/make-app-public.jpg)
+![Make app public](..//composite-widgets/make-app-public.jpg)
 

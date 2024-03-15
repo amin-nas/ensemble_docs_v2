@@ -43,9 +43,3 @@ View:
 </div>
 
 When user clicks on button browser pop-up asks for permission and as you allow it notification can be seen at bottom-right corner of screen. You can refer complete example [here](https://studio.ensembleui.com/app/e24402cb-75e2-404c-866c-29e6c3dd7992/screen/NiF1zG2VKspdlxNM2F1n?propertyPanelEnabled=true&instantPreviewDisabled=false&editorV2Enabled=true).
-
-**Output**
-
-![Alt text](image.png)
-
-![Alt text](image-2.png)

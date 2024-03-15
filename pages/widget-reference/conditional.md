@@ -76,9 +76,3 @@ Widget:
                     textStyle:
                       fontSize: 12
 ```
-
-**Output**
-
-This is how it looks as you complete it.
-
-![Alt text](image.png)

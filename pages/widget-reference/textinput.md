@@ -138,5 +138,5 @@ TextInput:
     floatLabel: true
     icon: person
 ```
-![Foating](float-label-input.png)
+![Foating](/float-label-input.png)
 ---

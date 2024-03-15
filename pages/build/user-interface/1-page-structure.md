@@ -210,7 +210,7 @@ you can check the complete example [here](https://studio.ensembleui.com/app/e244
 
 ##### Output
 
-![Alt text](image.png)
+![Alt text](/image.png)
 
 ### Drawer
 
@@ -275,8 +275,8 @@ You can also check live example [here](https://studio.ensembleui.com/app/e24402c
 
 ##### Output
 
-![Alt text](image-2.png)
-![Alt text](image-1.png)
+![Alt text](/image-2.png)
+![Alt text](/image-1.png)
 
 ### End Drawer
 
@@ -350,7 +350,7 @@ You can also check live example [here](https://studio.ensembleui.com/app/e24402c
 
 ##### Output
 
-![Alt text](image-3.png)
+![Alt text](/image-3.png)
 
 ## Body
 
@@ -416,7 +416,7 @@ Global: |-
 
 The output can be checked in the logs for browser
 
-![Alt text](image-6.png)
+![Alt text](/image-6.png)
 
 ## Putting it together
 
@@ -475,6 +475,6 @@ menu:
 
 #### Output
 
-![Alt text](image-4.png)
+![Alt text](/image-4.png)
 
 You can check the complete App [here](https://studio.ensembleui.com/app/iM58Wgr7bgzTxEi7rV40/screen/cYMnCfhOya8Vq1QG6aCC?propertyPanelEnabled=true&instantPreviewDisabled=false)
